@@ -6,4 +6,5 @@
 [tools]
 stylua = "johnnymorganz/stylua@2.4.1"
 luau-lsp = "johnnymorganz/luau-lsp@1.66.0"
+pesde = "pesde-pkg/pesde@0.7.3+registry.0.2.3"
 lute = "luau-lang/lute@1.0.0"
